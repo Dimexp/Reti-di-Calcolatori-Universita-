@@ -6,7 +6,7 @@ Studente: Esposito Dimitri Gennaro
 
 Professore: Emanuel Di Nardo
 
-Link Relazione: https://github.com/Eliodoro01/Reti-di-calcolatori-2023-24/blob/ce90faefe72b523e9bac695b21e6a195d00421f0/docs/index.md
+Link Relazione: https://github.com/Dimexp/Reti-di-Calcolatori-Universita-/blob/9d2f1ed835258b9054dd71cfeaa58e1e8b15840a/docs/index.md
 
 ## Traccia:
 
