@@ -2,7 +2,7 @@
 
 ### Progetto Universitario di Reti di Calcolatori 2023/2024
 
-Studente: Esposito Dimitri Gennaro
+Studente: Esposito Dimitri Gennaro / Marrazzo Martina
 
 Professore: Emanuel Di Nardo
 
