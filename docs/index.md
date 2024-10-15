@@ -805,11 +805,11 @@ void Aggiungi_Esame(sqlite3 *db, const int segreteriafd, const struct sockaddr_i
     if (rc != SQLITE_OK) {
 
         // In caso di errore, stampa un messaggio di errore e invia FAILURE alla segreteria
-        fprintf(stderr, "Errore SQLite: %s\n", errore);
+        fprintf(stderr, "Errore SQLite: %s\n", errore); 
         sqlite3_free(errore);
         printf("DEBUG: Invio risposta di errore alla segreteria...\n");
         Sendto(segreteriafd, "FAILURE", segreteria_address);
-    } else {
+    } else { 
 
         // Se l'inserimento va a buon fine, stampa un messaggio di successo e invia SUCCESS alla segreteria
         printf("L'esame e' stato aggiunto con successo.\n");
